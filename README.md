@@ -1,4 +1,4 @@
-<div class="text-center"> Golang </div>
+## Golang
 
 This repo contains basic Golang exercises 
 
